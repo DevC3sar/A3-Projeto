@@ -10,7 +10,7 @@ git clone https://github.com/DevC3sar/A3-Projeto.git
 pip install -r requirements. txt
 ```
 - Altere as variáveis do banco de dados no arquivo config.py
-- Inicie o servidor usando python
+- Inicie o servidor usando
 ```
 python main.py
 ```
