@@ -14,3 +14,6 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+## Pendências
+- Inserir uma pessoa no meio da fila - esvaziar a pilha e reinserir os dados com o dado na devida posição
+- Furar em qual fila se as duas a pessoa estaria na mesma posição? - precisa-se criar uma regra para isso
